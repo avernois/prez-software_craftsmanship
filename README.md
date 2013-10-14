@@ -14,3 +14,4 @@ When watching the slide, press 's' to get the speaker view with my notes (in fre
 Branches
 --------
 * gh-pages : main branch
+* 2013.10.10-agile_tour_toulouse : slides used for (Agile Tour Toulouse 2013)[http://tour.agiletoulouse.fr]
