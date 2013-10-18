@@ -15,3 +15,4 @@ Branches
 --------
 * gh-pages : main branch
 * 2013.10.10-agile_tour_toulouse : slides used for (Agile Tour Toulouse 2013)[http://tour.agiletoulouse.fr]
+* 2013.10.18-agile_tour_montpellier : slides used for (Agile Tour Montpellier 2013)[http://agiletour-montpellier.fr]
